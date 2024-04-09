@@ -1,0 +1,24 @@
+repeat 2000
+move 60
+repeat 1000
+move 60
+end
+end
+
+move 10
+turn 90
+move 20
+
+
+repeat 4
+move 10
+turn 90
+end
+
+
+move 10
+turn 90
+move 20
+turn -60
+move 15
+
